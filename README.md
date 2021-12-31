@@ -1,0 +1,5 @@
+- 👋 Hi, I’m a FiveM Developer looking to develop many 100kordie servers, or RZ!
+- 👀 I’m interested in LUA, HTML and CSS
+- 🌱 I’m currently learning CSS and HTML
+- 💞️ I’m looking to collaborate on many 100kordie servers.
+- 📫 How to reach me, you can join my development discord! https://discord.gg/Ad3yQgpdjs
